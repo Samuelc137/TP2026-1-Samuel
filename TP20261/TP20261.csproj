@@ -8,23 +8,62 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Banco\Clase bancaria.cs" />
+    <Compile Remove="Banco\ClaseBanco.cs" />
+    <Compile Remove="Banco\Exepciones.cs" />
+    <Compile Remove="Banco\MainBanco.cs" />
+    <Compile Remove="Calculadora cientifica main.cs" />
+    <Compile Remove="Calculadora main.cs" />
+    <Compile Remove="Calculadora.cs" />
     <Compile Remove="ClaseCuadrado.cs" />
     <Compile Remove="ClaseRectangulo.cs" />
-    <Compile Remove="Class1.cs" />
+    <Compile Remove="Escepciones\Main suministros.cs" />
+    <Compile Remove="Factorial.cs" />
+    <Compile Remove="lISTA\Clase persona L.cs" />
+    <Compile Remove="lISTA\ClaslISTA.cs" />
+    <Compile Remove="nuevo ejemplo\Class1.cs" />
+    <Compile Remove="nuevo ejemplo\main auto.cs" />
+    <Compile Remove="nuevo ejemplo\Moto.cs" />
+    <Compile Remove="nuevo ejemplo\vehiculos.cs" />
     <Compile Remove="Personas.cs" />
     <Compile Remove="Program.cs" />
     <Compile Remove="ProgramaCuadrado.cs" />
     <Compile Remove="ProgramaRectangulo.cs" />
+    <Compile Remove="RREGLOS\Main arreglos.cs" />
+    <Compile Remove="sUMINISTROS\Inventario.cs" />
+    <Compile Remove="sUMINISTROS\Main suministro.cs" />
+    <Compile Remove="sUMINISTROS\sUMISTROS.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <Content Include="lISTA\Clase persona L.cs" />
+    <Content Include="lISTA\ClaslISTA.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Banco\Clase bancaria.cs" />
+    <None Include="Banco\ClaseBanco.cs" />
+    <None Include="Banco\Exepciones.cs" />
+    <None Include="Banco\MainBanco.cs" />
+    <None Include="Calculadora cientifica main.cs" />
+    <None Include="Calculadora main.cs" />
+    <None Include="Calculadora.cs" />
     <None Include="ClaseCuadrado.cs" />
     <None Include="ClaseRectangulo.cs" />
-    <None Include="Class1.cs" />
+    <None Include="Escepciones\Main suministros.cs" />
+    <None Include="Factorial.cs" />
+    <None Include="nuevo ejemplo\Class1.cs" />
+    <None Include="nuevo ejemplo\main auto.cs" />
+    <None Include="nuevo ejemplo\Moto.cs" />
+    <None Include="nuevo ejemplo\vehiculos.cs" />
     <None Include="Personas.cs" />
     <None Include="Program.cs" />
     <None Include="ProgramaCuadrado.cs" />
     <None Include="ProgramaRectangulo.cs" />
+    <None Include="RREGLOS\Main arreglos.cs" />
+    <None Include="sUMINISTROS\Inventario.cs" />
+    <None Include="sUMINISTROS\Main suministro.cs" />
+    <None Include="sUMINISTROS\sUMISTROS.cs" />
   </ItemGroup>
 
 </Project>
